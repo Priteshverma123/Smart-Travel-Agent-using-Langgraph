@@ -15,15 +15,15 @@ https://github.com/Priteshverma123/Smart-Travel-Agent-using-Langgraph/blob/main/
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="images/demo1.png" alt="Main Interface" width="80%">
+  <img src="images/demo1.png" alt="Main Interface" width="100%">
 </div>
 
 <div align="center">
-  <img src="images/demo2.png" alt="Search Results" width="80%">
+  <img src="images/demo2.png" alt="Search Results" width="100%">
 </div>
 
 <div align="center">
-  <img src="images/demo3.png" alt="Email Feature" width="80%">
+  <img src="images/demo3.png" alt="Email Feature" width="100%">
 </div>
 
 ## 🌟 Features
