@@ -8,19 +8,22 @@ A powerful AI-driven multi-agent system that helps you find the best flights and
 
 Watch the system in action:
 
-https://user-images.githubusercontent.com/yourusername/demo.mp4
+https://github.com/Priteshverma123/Smart-Travel-Agent-using-Langgraph/blob/main/images/demo.mp4
 
 *Or view the demo video in the `/images` folder*
 
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="images/demo1.png" alt="Main Interface" width="45%">
-  <img src="images/demo2.png" alt="Search Results" width="45%">
+  <img src="images/demo1.png" alt="Main Interface" width="100%">
 </div>
 
 <div align="center">
-  <img src="images/demo3.png" alt="Email Feature" width="45%">
+  <img src="images/demo2.png" alt="Search Results" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/demo3.png" alt="Email Feature" width="100%">
 </div>
 
 ## 🌟 Features
@@ -59,8 +62,8 @@ User Query → Tools LLM → Flight/Hotel APIs → Format Response → [Optional
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd smart-travel-assistant
+git clone https://github.com/Priteshverma123/Smart-Travel-Agent-using-Langgraph.git
+cd Smart-Travel-Agent-using-Langgraph
 ```
 
 ### 2. Install Dependencies
