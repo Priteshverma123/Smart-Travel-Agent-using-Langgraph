@@ -8,7 +8,7 @@ A powerful AI-driven multi-agent system that helps you find the best flights and
 
 Watch the system in action:
 
-https://user-images.githubusercontent.com/yourusername/demo-video.mp4
+https://user-images.githubusercontent.com/yourusername/demo.mp4
 
 *Or view the demo video in the `/images` folder*
 
