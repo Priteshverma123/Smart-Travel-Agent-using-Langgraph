@@ -8,7 +8,7 @@ A powerful AI-driven multi-agent system that helps you find the best flights and
 
 Watch the system in action:
 
-[https://user-images.githubusercontent.com/yourusername/demo.mp4](https://github.com/Priteshverma123/Smart-Travel-Agent-using-Langgraph/blob/main/images/demo.mp4)
+https://github.com/Priteshverma123/Smart-Travel-Agent-using-Langgraph/blob/main/images/demo.mp4
 
 *Or view the demo video in the `/images` folder*
 
